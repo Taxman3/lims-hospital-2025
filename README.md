@@ -35,4 +35,3 @@
 ### Store Module
 - Inventory tracking for medical supplies.
 - Automated restocking alerts.
->>>>>>> 5c3de40 (Initial commit - setting up Firebase deployment)
